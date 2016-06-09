@@ -1,3 +1,2 @@
 ##Weather API and Google Maps API
-...
-A simple weather API
+Use AngularJS Factory Service to refactor Weather API and Google Maps API.
