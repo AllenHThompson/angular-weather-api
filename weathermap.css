@@ -17,6 +17,7 @@ html, body {
   height: 100%;
   width: 20%;
   overflow: auto;
+  background-image: url(congruent_pentagon.png);
 }
 #sidebar p img {
   vertical-align: middle;
